@@ -1,0 +1,6 @@
+{
+  "name": "Aether Grid: Neon Depths",
+  "description": "Retro-cyberpunk sci-fi mining RPG and exploration adventure across 5 planets with dynamic cave terrain, alien civilization, responsive mobile controls, and offline PWA mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
